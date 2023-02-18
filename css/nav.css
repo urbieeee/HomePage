@@ -1,0 +1,35 @@
+.li:link {
+    color: silver;
+}
+
+.li:visited {
+    color: rgb(255, 217, 148);
+}
+
+.li:focus {
+    color: #ff00e6
+}
+
+.li:hover {
+    color: blue;
+    text-decoration: underline;
+    background-color: red;
+    border: 1px solid blue;
+}
+
+.li:active {
+    color: blue;
+    background-color: #8F7;
+}
+
+.nav {
+    margin: 0;
+    padding: 0;
+    line-height: 2;
+}
+
+.nav_name {
+    text-decoration: none;
+    margin: 0 auto;
+    padding: 0;
+}

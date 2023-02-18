@@ -1,0 +1,21 @@
+.article_strong {
+    margin: 25px 25px;
+}
+
+.article_container {
+    margin: 20px 80px;
+    text-shadow: 0 0 1px #8F7;
+}
+
+.header_main {
+    margin: 20px 30px;
+    font-size: xx-large;
+}
+
+.header_text {
+    color: crimson;
+}
+
+.article_header {
+    color: #281b1b;
+}

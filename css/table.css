@@ -1,0 +1,38 @@
+.tableCell {
+    border: 3px solid #686161;
+    line-height: 2;
+}
+
+.tableHeader {
+    background: crimson;
+    color: white;
+}
+
+.siemson:nth-child(even) {
+    background-color: #eee;
+}
+
+.ul {
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+    list-style: none;
+}
+
+.li {
+    text-align: center;
+    width: 180px;
+    text-decoration: none;
+    color: aqua;
+    background-color: #7a7ab8;
+    padding: 0;
+    margin: 0;
+    border: 1px solid navy;
+    border-radius: 3px;
+    box-shadow: 0px 2px 3px gray;
+}
+
+.table__caption {
+    text-align: center;
+    margin: 0 auto;
+}
