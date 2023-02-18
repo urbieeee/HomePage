@@ -4,4 +4,4 @@
 
 [CODE TEST](https://urbieeee.github.io/HomePage/)
 
-![piesek](https://www.google.com/homepage/hp-safari.html)
+![jpg](https://www.google.com/homepage/hp-safari.html)
